@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Tri-State Heating & Air Conditioning",
+    "phone": "+16108425443",
+    "category": "HVAC contractor",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Philly's HVAC Experts",
+      "heroSubline": "Keeping Philadelphia comfortable, one home at a time. Trusted HVAC solutions for every season.",
+      "aboutTitle": "Decades of Comfort in the City of Brotherly Love",
+      "aboutText": [
+        "Tri-State Heating & Air Conditioning was founded over a decade ago with a simple mission: to provide honest, reliable HVAC services to our neighbors in Philadelphia. We understand the unique challenges our city presents, from the aging rowhomes in South Philly to the modern condos downtown.",
+        "Our approach is straightforward. We diagnose the problem accurately, explain the solution clearly, and execute the work with precision. We use only quality parts and proven techniques to ensure lasting results. We are committed to providing honest service.",
+        "We are proud to be a part of the Philadelphia community. We support local initiatives and strive to give back whenever we can. Our team lives and works here, and we are invested in the well-being of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep knowledge of Philadelphia's unique housing and climate challenges."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Prompt, professional, and dependable HVAC solutions you can trust."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "Honest and transparent pricing with no hidden fees or surprises."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "Skilled technicians and quality parts for lasting comfort and peace of mind."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Estimate Today!",
+      "ctaSubline": "Experience the Tri-State Heating & Air Conditioning difference. Contact us for a consultation."
+    },
+    "services": [
+      {
+        "slug": "ac-repair",
+        "name": "Air Conditioning Repair",
+        "shortDescription": "Fast, reliable AC repair to beat the Philadelphia heat.",
+        "description": "When your AC breaks down in the middle of a Philly summer, you need a team that can respond quickly and accurately. At Tri-State Heating & Air Conditioning, we understand the urgency. Our experienced technicians are equipped to diagnose and repair all makes and models of air conditioning systems. We'll thoroughly inspect your unit, identify the root cause of the problem, and provide a clear explanation of the necessary repairs. \n\nFrom refrigerant leaks and compressor failures to faulty wiring and thermostat issues, we handle it all. We use only quality replacement parts to ensure lasting performance and reliability. We offer emergency AC repair services to get your system back up and running as quickly as possible. Don't suffer through another sweltering day – call Tri-State Heating & Air Conditioning for expert AC repair you can count on.",
+        "process": [
+          "Step 1: Schedule a convenient appointment time.",
+          "Step 2: Our technician will diagnose your AC system.",
+          "Step 3: We'll explain the repair options and provide a transparent quote.",
+          "Step 4: We'll complete the repair efficiently and effectively."
+        ],
+        "benefits": [
+          "Fast and reliable AC repair services",
+          "Experienced and certified technicians",
+          "Upfront and transparent pricing",
+          "Quality replacement parts"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an AC repair call?",
+            "answer": "We offer emergency AC repair services and strive to respond to all calls as quickly as possible, especially during peak season. Our goal is to get your system back up and running the same day."
+          },
+          {
+            "question": "What are some signs that my AC needs repair?",
+            "answer": "Common signs include warm air blowing from the vents, strange noises, leaks, and a sudden increase in your energy bills. If you notice any of these issues, it's best to call us for a professional inspection."
+          },
+          {
+            "question": "Do you offer a warranty on your AC repairs?",
+            "answer": "Yes, we stand behind our work and offer a warranty on all AC repairs. The specific warranty terms will vary depending on the type of repair and the parts used."
+          }
+        ]
+      },
+      {
+        "slug": "ac-installation",
+        "name": "Air Conditioning Installation",
+        "shortDescription": "Professional AC installation for homes and businesses in Philadelphia.",
+        "description": "Choosing the right air conditioning system for your Philadelphia home or business is a crucial decision. Factors like the size of your space, insulation, and energy efficiency goals all play a role. At Tri-State Heating & Air Conditioning, we guide you through the entire process, from selecting the ideal unit to ensuring a seamless installation.\n\nWe offer a wide range of AC systems from leading manufacturers, including central air conditioners, ductless mini-splits, and heat pumps. Our experienced technicians will assess your needs, recommend the best options for your budget and comfort preferences, and install your new system with precision and care. We handle all aspects of the installation, including ductwork modifications, electrical connections, and refrigerant charging. We also provide thorough testing and calibration to ensure optimal performance and energy efficiency. Upgrade your comfort with a new AC system from Tri-State Heating & Air Conditioning.",
+        "process": [
+          "Step 1: Schedule a free consultation to assess your needs.",
+          "Step 2: We'll recommend the best AC system for your home or business.",
+          "Step 3: Our technicians will install your new AC system with precision.",
+          "Step 4: We'll test and calibrate the system for optimal performance."
+        ],
+        "benefits": [
+          "Expert guidance in selecting the right AC system",
+          "Professional and efficient installation services",
+          "Improved energy efficiency and lower utility bills",
+          "Enhanced comfort and indoor air quality"
+        ],
+        "faq": [
+          {
+            "question": "How do I know what size AC unit I need?",
+            "answer": "Our technicians will perform a load calculation to determine the appropriate size AC unit for your space. This calculation takes into account factors like square footage, insulation, window size, and climate conditions."
+          },
+          {
+            "question": "What are the benefits of a ductless mini-split system?",
+            "answer": "Ductless mini-splits are a great option for homes without existing ductwork, or for adding cooling to specific areas. They are energy-efficient, quiet, and offer individual temperature control for each zone."
+          },
+          {
+            "question": "Do you offer financing options for AC installation?",
+            "answer": "Yes, we offer flexible financing options to make AC installation more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "furnace-repair",
+        "name": "Furnace Repair",
+        "shortDescription": "Reliable furnace repair services to keep your home warm all winter.",
+        "description": "When the cold Philadelphia winters hit, a functioning furnace is essential. Tri-State Heating & Air Conditioning offers expert furnace repair services to keep your home warm and comfortable. We understand the urgency of furnace breakdowns, especially during freezing temperatures. Our technicians are available to diagnose and repair all makes and models of furnaces, including gas, electric, and oil-fired units.\n\nWe handle a wide range of furnace problems, from pilot light issues and burner malfunctions to blower motor failures and heat exchanger problems. We use advanced diagnostic tools to pinpoint the source of the problem and provide a clear explanation of the necessary repairs. We also offer emergency furnace repair services to ensure you're never left in the cold. Trust Tri-State Heating & Air Conditioning to keep your furnace running smoothly all winter long.",
+        "process": [
+          "Step 1: Schedule a convenient appointment for furnace repair.",
+          "Step 2: Our technician will diagnose the problem with your furnace.",
+          "Step 3: We will explain the repair options and provide a transparent quote.",
+          "Step 4: Our technician will complete the furnace repair efficiently and effectively."
+        ],
+        "benefits": [
+          "Fast and reliable furnace repair services",
+          "Experienced and certified technicians",
+          "Upfront and transparent pricing",
+          "Quality replacement parts"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my furnace serviced?",
+            "answer": "We recommend having your furnace serviced annually to ensure optimal performance and prevent breakdowns. Regular maintenance can also improve energy efficiency and extend the life of your furnace."
+          },
+          {
+            "question": "What are some signs that my furnace needs repair?",
+            "answer": "Common signs include strange noises, uneven heating, a yellow or flickering pilot light, and a sudden increase in your energy bills. If you notice any of these issues, it's best to call us for a professional inspection."
+          },
+          {
+            "question": "Do you offer emergency furnace repair services?",
+            "answer": "Yes, we offer 24/7 emergency furnace repair services to ensure you're never left in the cold. Call us anytime for immediate assistance."
+          }
+        ]
+      },
+      {
+        "slug": "furnace-installation",
+        "name": "Furnace Installation",
+        "shortDescription": "Expert furnace installation services for efficient home heating.",
+        "description": "Upgrading to a new, energy-efficient furnace can significantly improve your home's comfort and lower your heating bills, especially in Philadelphia's harsh winters. At Tri-State Heating & Air Conditioning, we specialize in professional furnace installation services. We'll help you choose the right furnace for your home's size, layout, and heating needs. We offer a wide selection of high-efficiency furnaces from leading manufacturers, including gas, electric, and oil-fired models.\n\nOur experienced technicians will handle all aspects of the installation process, from removing your old furnace to installing the new unit with precision and care. We ensure proper venting, gas line connections, and electrical wiring for safe and reliable operation. We also provide thorough testing and calibration to maximize energy efficiency and comfort. Invest in a new furnace and experience the difference with Tri-State Heating & Air Conditioning.",
+        "process": [
+          "Step 1: Schedule a free consultation to assess your heating needs.",
+          "Step 2: We'll recommend the best furnace for your home and budget.",
+          "Step 3: Our technicians will install your new furnace with precision.",
+          "Step 4: We'll test and calibrate the system for optimal performance."
+        ],
+        "benefits": [
+          "Expert guidance in selecting the right furnace",
+          "Professional and efficient installation services",
+          "Improved energy efficiency and lower heating bills",
+          "Enhanced comfort and indoor air quality"
+        ],
+        "faq": [
+          {
+            "question": "How long does furnace installation take?",
+            "answer": "The duration of furnace installation varies depending on the complexity of the job, but typically takes one to two days. We'll provide you with a more accurate estimate during the consultation."
+          },
+          {
+            "question": "What is the difference between gas, electric, and oil furnaces?",
+            "answer": "Gas furnaces are the most common type and are generally more energy-efficient than electric or oil furnaces. Electric furnaces are cleaner but can be more expensive to operate. Oil furnaces are less common and require a separate fuel tank."
+          },
+          {
+            "question": "Do you offer financing options for furnace installation?",
+            "answer": "Yes, we offer flexible financing options to make furnace installation more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "ductwork-services",
+        "name": "Ductwork Services",
+        "shortDescription": "Duct cleaning, repair, and installation for efficient HVAC systems.",
+        "description": "Your ductwork plays a vital role in distributing heated and cooled air throughout your Philadelphia home. Over time, ducts can accumulate dust, debris, and allergens, reducing airflow and impacting indoor air quality. Tri-State Heating & Air Conditioning offers comprehensive ductwork services to ensure your HVAC system operates efficiently and effectively.\n\nWe provide duct cleaning, repair, and installation services. Our duct cleaning process removes accumulated contaminants, improving airflow and reducing allergens. We also repair damaged or leaky ducts to prevent energy loss and improve system efficiency. If you're renovating your home or installing a new HVAC system, we can design and install new ductwork to meet your specific needs. Improve your indoor air quality and system efficiency with Tri-State Heating & Air Conditioning ductwork services.",
+        "process": [
+          "Step 1: Schedule a ductwork inspection.",
+          "Step 2: We'll assess the condition of your ductwork and recommend the appropriate services.",
+          "Step 3: We'll perform the duct cleaning, repair, or installation with precision.",
+          "Step 4: We'll test the system to ensure optimal performance."
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Increased energy efficiency",
+          "Reduced allergens and dust",
+          "Extended HVAC system lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my ducts cleaned?",
+            "answer": "We recommend having your ducts cleaned every 3-5 years, or more often if you have pets, allergies, or respiratory issues."
+          },
+          {
+            "question": "What are the signs of leaky ducts?",
+            "answer": "Signs of leaky ducts include uneven heating or cooling, high energy bills, and dusty air vents. If you notice any of these issues, it's best to call us for a professional inspection."
+          },
+          {
+            "question": "Can you install new ductwork in my home?",
+            "answer": "Yes, we can design and install new ductwork to meet your specific needs. We'll ensure proper sizing, insulation, and sealing for optimal performance."
+          }
+        ]
+      },
+      {
+        "slug": "heat-pump-services",
+        "name": "Heat Pump Services",
+        "shortDescription": "Heat pump repair, installation, and maintenance for year-round comfort.",
+        "description": "Heat pumps offer an energy-efficient solution for both heating and cooling your Philadelphia home. Tri-State Heating & Air Conditioning provides comprehensive heat pump services to keep your system running smoothly year-round. We offer heat pump repair, installation, and maintenance services for all makes and models.\n\nOur experienced technicians are trained to diagnose and repair a wide range of heat pump problems, from refrigerant leaks and compressor issues to fan motor failures and thermostat problems. We also specialize in heat pump installation, helping you choose the right system for your needs and ensuring a professional installation. Regular maintenance is essential for heat pump efficiency and longevity. We offer comprehensive maintenance plans to keep your system in top condition. Experience year-round comfort with Tri-State Heating & Air Conditioning heat pump services.",
+        "process": [
+          "Step 1: Schedule a heat pump service appointment.",
+          "Step 2: We'll diagnose the problem or assess your installation needs.",
+          "Step 3: We'll provide a clear explanation of the necessary services and a transparent quote.",
+          "Step 4: We'll complete the work efficiently and effectively."
+        ],
+        "benefits": [
+          "Energy-efficient heating and cooling",
+          "Year-round comfort",
+          "Lower utility bills",
+          "Environmentally friendly"
+        ],
+        "faq": [
+          {
+            "question": "How does a heat pump work?",
+            "answer": "A heat pump transfers heat from one location to another. In the winter, it extracts heat from the outside air and transfers it inside. In the summer, it reverses the process and removes heat from inside, transferring it outside."
+          },
+          {
+            "question": "What are the benefits of a heat pump?",
+            "answer": "Heat pumps are more energy-efficient than traditional heating and cooling systems, which can lead to lower utility bills. They also provide both heating and cooling, eliminating the need for separate systems."
+          },
+          {
+            "question": "How often should I have my heat pump serviced?",
+            "answer": "We recommend having your heat pump serviced annually to ensure optimal performance and prevent breakdowns. Regular maintenance can also improve energy efficiency and extend the life of your heat pump."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Philadelphia",
+        "slug": "philadelphia-pa",
+        "state": "PA",
+        "content": "Tri-State Heating & Air Conditioning is proud to serve the residents and businesses of Philadelphia, PA. From historic row homes in South Philly to modern high-rises in Center City, we understand the diverse heating and cooling needs of this vibrant metropolis. Our expert technicians are equipped to handle any HVAC challenge, ensuring your comfort and safety year-round.\n\nWe offer a comprehensive range of services, including HVAC installation, repair, and maintenance. Whether you need a new furnace installed before winter or your air conditioner needs a tune-up before the summer heat, Tri-State Heating & Air Conditioning is here to provide reliable and affordable solutions. We are committed to delivering exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Philadelphia is a city rich in history and culture, with a unique blend of old and new. We understand the specific HVAC challenges posed by the city's diverse architecture and climate.",
+        "nearbyAreas": [
+          "Camden",
+          "Upper Darby",
+          "Bala Cynwyd"
+        ]
+      },
+      {
+        "city": "Upper Darby",
+        "slug": "upper-darby-pa",
+        "state": "PA",
+        "content": "Tri-State Heating & Air Conditioning extends its expert HVAC services to the community of Upper Darby, PA. Known for its diverse population and thriving neighborhoods, Upper Darby residents can rely on us for all their heating and cooling needs. We prioritize prompt, reliable service and strive to exceed expectations with every job.\n\nOur services in Upper Darby include everything from routine maintenance and repairs to complete system installations. We understand the importance of a comfortable home, and our team is dedicated to providing efficient and affordable solutions to keep your HVAC system running smoothly. Trust Tri-State Heating & Air Conditioning to keep you comfortable year-round.",
+        "localContext": "Upper Darby is a vibrant and diverse community with a mix of housing styles, from older homes to newer developments. We're familiar with the specific HVAC needs of this area.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Drexel Hill",
+          "Clifton Heights"
+        ]
+      },
+      {
+        "city": "Bala Cynwyd",
+        "slug": "bala-cynwyd-pa",
+        "state": "PA",
+        "content": "Tri-State Heating & Air Conditioning is pleased to offer its exceptional HVAC services to the residents of Bala Cynwyd, PA. This charming community deserves the best in heating and cooling, and we are committed to providing reliable and affordable solutions to keep your home comfortable year-round.\n\nFrom routine maintenance to emergency repairs, our team of experienced technicians is equipped to handle any HVAC challenge. We understand the unique needs of Bala Cynwyd homeowners and strive to deliver personalized service that exceeds expectations. Trust Tri-State Heating & Air Conditioning for all your HVAC needs.",
+        "localContext": "Bala Cynwyd is a well-established suburban community known for its beautiful homes and tree-lined streets. We understand the importance of maintaining the comfort and value of your home.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Narberth",
+          "Wynnewood"
+        ]
+      },
+      {
+        "city": "Drexel Hill",
+        "slug": "drexel-hill-pa",
+        "state": "PA",
+        "content": "Residents of Drexel Hill, PA can depend on Tri-State Heating & Air Conditioning for top-notch HVAC services. We are dedicated to providing reliable, efficient, and affordable solutions to keep your homes comfortable throughout the year. From routine maintenance to emergency repairs, our team is ready to assist you with all your heating and cooling needs.\n\nWe offer a wide range of services in Drexel Hill, including furnace and air conditioner installation, repair, and maintenance. Our experienced technicians are trained to work on all makes and models, ensuring that your HVAC system is running at peak performance. Trust Tri-State Heating & Air Conditioning to keep you comfortable in Drexel Hill.",
+        "localContext": "Drexel Hill is a family-friendly community with a mix of housing styles. We're familiar with the local climate and the common HVAC issues that homeowners face in this area.",
+        "nearbyAreas": [
+          "Upper Darby",
+          "Springfield",
+          "Havertown"
+        ]
+      },
+      {
+        "city": "Springfield",
+        "slug": "springfield-pa",
+        "state": "PA",
+        "content": "Tri-State Heating & Air Conditioning is committed to serving the residents of Springfield, PA with exceptional HVAC services. We understand the importance of a comfortable home, and we're dedicated to providing reliable and affordable solutions for all your heating and cooling needs. Whether you need a new system installed or your existing system repaired, our team is here to help.\n\nOur services in Springfield include everything from routine maintenance to emergency repairs. We pride ourselves on our prompt and professional service, and we strive to exceed your expectations with every job. Trust Tri-State Heating & Air Conditioning to keep you comfortable year-round.",
+        "localContext": "Springfield is a thriving suburban community known for its excellent schools and family-friendly atmosphere. We understand the importance of providing reliable and efficient HVAC services to this community.",
+        "nearbyAreas": [
+          "Swarthmore",
+          "Morton",
+          "Media"
+        ]
+      },
+      {
+        "city": "Havertown",
+        "slug": "havertown-pa",
+        "state": "PA",
+        "content": "Tri-State Heating & Air Conditioning is proud to offer its expert HVAC services to the community of Havertown, PA. We understand the unique heating and cooling needs of Havertown residents and are committed to providing reliable and affordable solutions to keep your home comfortable year-round.\n\nOur services in Havertown include HVAC system installation, repair, and maintenance. We work on all makes and models of equipment and are dedicated to providing exceptional customer service. Whether you need a new furnace installed or your air conditioner repaired, Tri-State Heating & Air Conditioning is here to help.",
+        "localContext": "Havertown is a close-knit community with a strong sense of tradition. We appreciate the opportunity to serve the homeowners and businesses in this area.",
+        "nearbyAreas": [
+          "Broomall",
+          "Drexel Hill",
+          "Ardmore"
+        ]
+      },
+      {
+        "city": "Broomall",
+        "slug": "broomall-pa",
+        "state": "PA",
+        "content": "Tri-State Heating & Air Conditioning provides expert HVAC services to the residents and businesses of Broomall, PA. We are committed to delivering reliable, efficient, and affordable heating and cooling solutions that ensure your comfort and peace of mind. Our experienced technicians are equipped to handle any HVAC challenge, big or small.\n\nOur services in Broomall include HVAC installation, repair, and maintenance. Whether you need a new energy-efficient system or your existing system serviced, Tri-State Heating & Air Conditioning is here to provide prompt and professional service. We are dedicated to exceeding your expectations and building long-lasting relationships with our customers.",
+        "localContext": "Broomall is a family-oriented community with a strong sense of pride. We're dedicated to providing the best possible HVAC services to our neighbors in Broomall.",
+        "nearbyAreas": [
+          "Havertown",
+          "Newtown Square",
+          "Media"
+        ]
+      },
+      {
+        "city": "Media",
+        "slug": "media-pa",
+        "state": "PA",
+        "content": "Tri-State Heating & Air Conditioning is pleased to serve the community of Media, PA with top-quality HVAC services. We understand the importance of a comfortable and energy-efficient home, and we're dedicated to providing reliable and affordable solutions to meet your specific needs.\n\nOur services in Media include HVAC system installation, repair, and maintenance. We work on all makes and models of equipment and are committed to providing exceptional customer service. Whether you need a new air conditioner installed or your furnace repaired, Tri-State Heating & Air Conditioning is here to help.",
+        "localContext": "Media is a charming town known for its historic architecture and vibrant downtown area. We understand the unique HVAC needs of homes and businesses in this area.",
+        "nearbyAreas": [
+          "Swarthmore",
+          "Broomall",
+          "Springfield"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Our AC went out during a heatwave, and Tri-State Heating & Air Conditioning came to the rescue! They were prompt, professional, and fixed the problem quickly. The technician, Dave, explained everything clearly and was very courteous. Highly recommend!",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Jessica S.",
+        "rating": 5,
+        "service": "Furnace Installation",
+        "text": "We recently replaced our old furnace with a new high-efficiency model from Tri-State Heating & Air Conditioning. The installation process was smooth and efficient, and the team was very knowledgeable. Our house is noticeably warmer, and we're already seeing savings on our energy bills.",
+        "date": "2025-03-05"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Duct Cleaning",
+        "text": "I had my ducts cleaned by Tri-State Heating & Air Conditioning, and I'm very happy with the results. The air in my house feels cleaner, and my allergies have improved. The technician was thorough and professional.",
+        "date": "2024-11-22"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "AC Installation",
+        "text": "Great service! I needed a new AC unit installed in my Fishtown rowhome. They were very knowledgeable about the specific challenges of older houses and recommended the perfect unit for my needs. The installation was quick and clean. Would definitely use them again.",
+        "date": "2025-08-10"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Furnace Repair",
+        "text": "My furnace stopped working in the middle of January. Tri-State Heating & Air Conditioning came out quickly and diagnosed the problem. The repair was done efficiently and at a fair price. Appreciated their quick response.",
+        "date": "2025-01-28"
+      },
+      {
+        "name": "Linda M.",
+        "rating": 5,
+        "service": "Heat Pump Service",
+        "text": "Excellent service on my heat pump. The technician was prompt, courteous, and explained the issue clearly. They were able to fix the problem quickly and efficiently. I highly recommend them.",
+        "date": "2025-04-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tri-State HVAC: Philadelphia's HVAC Experts",
+        "description": "Reliable HVAC services in Philadelphia, PA. AC repair, furnace installation, duct cleaning, and more. Call today for a free estimate!"
+      },
+      "about": {
+        "title": "About Tri-State HVAC: Philadelphia's Trusted Contractor",
+        "description": "Learn about Tri-State Heating & Air Conditioning's commitment to quality HVAC services in Philadelphia and surrounding areas."
+      },
+      "services": {
+        "title": "HVAC Services: Philadelphia's Expert Contractor",
+        "description": "Comprehensive HVAC services in Philadelphia, PA. AC repair, furnace installation, heat pump services, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Tri-State HVAC: Get Your Free Estimate",
+        "description": "Contact Tri-State Heating & Air Conditioning for reliable HVAC services in Philadelphia. Schedule your free estimate today!"
+      },
+      "reviews": {
+        "title": "Tri-State HVAC Reviews: See What Our Clients Say",
+        "description": "Read reviews from satisfied Tri-State Heating & Air Conditioning customers in Philadelphia. See why we're the trusted choice for HVAC services."
+      },
+      "service-areas": {
+        "title": "Tri-State HVAC Service Areas: Philadelphia & Beyond",
+        "description": "Tri-State Heating & Air Conditioning provides HVAC services in Philadelphia and surrounding areas. Find out if we serve your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 15,
+      "projectsCompleted": "1200+",
+      "satisfaction": "98%",
+      "teamSize": "25+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair": "/images/service-ac-repair.webp",
+      "ac-installation": "/images/service-ac-installation.webp",
+      "furnace-repair": "/images/service-furnace-repair.webp",
+      "furnace-installation": "/images/service-furnace-installation.webp",
+      "ductwork-services": "/images/service-ductwork-services.webp",
+      "heat-pump-services": "/images/service-heat-pump-services.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair": {
+        "src": "/images/service-ac-repair.webp",
+        "srcset": "/images/service-ac-repair-400w.webp 400w, /images/service-ac-repair-800w.webp 800w, /images/service-ac-repair-1200w.webp 1200w, /images/service-ac-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-installation": {
+        "src": "/images/service-ac-installation.webp",
+        "srcset": "/images/service-ac-installation-400w.webp 400w, /images/service-ac-installation-800w.webp 800w, /images/service-ac-installation-1200w.webp 1200w, /images/service-ac-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furnace-repair": {
+        "src": "/images/service-furnace-repair.webp",
+        "srcset": "/images/service-furnace-repair-400w.webp 400w, /images/service-furnace-repair-800w.webp 800w, /images/service-furnace-repair-1200w.webp 1200w, /images/service-furnace-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furnace-installation": {
+        "src": "/images/service-furnace-installation.webp",
+        "srcset": "/images/service-furnace-installation-400w.webp 400w, /images/service-furnace-installation-800w.webp 800w, /images/service-furnace-installation-1200w.webp 1200w, /images/service-furnace-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ductwork-services": {
+        "src": "/images/service-ductwork-services.webp",
+        "srcset": "/images/service-ductwork-services-400w.webp 400w, /images/service-ductwork-services-800w.webp 800w, /images/service-ductwork-services-1200w.webp 1200w, /images/service-ductwork-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heat-pump-services": {
+        "src": "/images/service-heat-pump-services.webp",
+        "srcset": "/images/service-heat-pump-services-400w.webp 400w, /images/service-heat-pump-services-800w.webp 800w, /images/service-heat-pump-services-1200w.webp 1200w, /images/service-heat-pump-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

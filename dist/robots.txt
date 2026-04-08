@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-tri-state-heating-air-conditioning.dream-surge.com/sitemap-index.xml
